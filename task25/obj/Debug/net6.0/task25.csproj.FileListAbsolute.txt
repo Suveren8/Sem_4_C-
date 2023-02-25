@@ -1,0 +1,15 @@
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 4\Sem_4_C#\task25\bin\Debug\net6.0\task25.exe
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 4\Sem_4_C#\task25\bin\Debug\net6.0\task25.deps.json
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 4\Sem_4_C#\task25\bin\Debug\net6.0\task25.runtimeconfig.json
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 4\Sem_4_C#\task25\bin\Debug\net6.0\task25.dll
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 4\Sem_4_C#\task25\bin\Debug\net6.0\task25.pdb
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 4\Sem_4_C#\task25\obj\Debug\net6.0\task25.csproj.AssemblyReference.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 4\Sem_4_C#\task25\obj\Debug\net6.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 4\Sem_4_C#\task25\obj\Debug\net6.0\task25.AssemblyInfoInputs.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 4\Sem_4_C#\task25\obj\Debug\net6.0\task25.AssemblyInfo.cs
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 4\Sem_4_C#\task25\obj\Debug\net6.0\task25.csproj.CoreCompileInputs.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 4\Sem_4_C#\task25\obj\Debug\net6.0\task25.dll
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 4\Sem_4_C#\task25\obj\Debug\net6.0\refint\task25.dll
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 4\Sem_4_C#\task25\obj\Debug\net6.0\task25.pdb
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 4\Sem_4_C#\task25\obj\Debug\net6.0\task25.genruntimeconfig.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 4\Sem_4_C#\task25\obj\Debug\net6.0\ref\task25.dll
